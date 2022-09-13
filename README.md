@@ -2,4 +2,4 @@
 
 -
 -
--
+-: open_file_folder: The bot has three commands: `/start` , `/information` , `/help`.
