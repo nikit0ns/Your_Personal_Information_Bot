@@ -1,6 +1,6 @@
 # Your_Personal_Information_Bot - Telegram Bot
 
-- :bust_in_silhouette: The Bot will write your information to telegram
+- :bust_in_silhouette: The Bot will write your information in the Telegram.
 -
 - :open_file_folder: The bot has three commands: `/start` , `/information` , `/help`.
 
