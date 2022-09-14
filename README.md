@@ -1,7 +1,7 @@
 # Your_Personal_Information_Bot - Telegram Bot
 
 - :pencil: The Bot will write your information in the Telegram.
-- :pushpin: This is just an Informative Telegram Bot.
+- :pushpin: This is just an Informative Bot.
 - :open_file_folder: The bot has three commands: `/start` , `/information` , `/help`.
 
 ---
