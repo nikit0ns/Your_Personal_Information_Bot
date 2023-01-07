@@ -1,4 +1,4 @@
-# Your_Personal_Information_Bot - Telegram Bot
+# @Your_Personal_Information_Bot - Telegram Bot
 
 - :pencil: The Bot will write your information in the Telegram.
 - :pushpin: This is just an Informative Bot.
