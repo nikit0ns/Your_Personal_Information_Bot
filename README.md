@@ -2,7 +2,7 @@
 
 - :pencil: The Bot will write your information in the Telegram.
 - :pushpin: This is just an Informative Bot.
-- :open_file_folder: The bot has three commands: `/start` , `/information` , `/help`.
+- :open_file_folder: The Bot has three commands: `/start` , `/information` , `/help`.
 
 ---
 
