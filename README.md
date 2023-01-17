@@ -9,5 +9,4 @@
 # Screenshots
  
  ![Your_Personal_Information_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/Your_Personal_Information_Bot_Start.png)
- 
  ![Your_Personal_Information_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/Your_Personal_Information_Bot_Commands.png)
