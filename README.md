@@ -3,7 +3,7 @@
 - :pencil: The Bot will write your information in the Telegram.
 - :pushpin: This is just an Informative Bot.
 - :open_file_folder: The Bot has three commands: `/start` , `/information` , `/help`.
-- :unlock: The Telegram Bot Status: Works On Hosting.
+- :lock: The Telegram Bot Status: Doesn't Work On Hosting.
 
 ---
 
